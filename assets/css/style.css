@@ -476,7 +476,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 100vh;
-  background: url(../img/hero.jpg) top center;
+  background: url(../img/hero.png) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -667,7 +667,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 # About Section
 --------------------------------------------------------------*/
 #about {
-  background: url("../img/permata.jpg");
+  background: url("../img/permata.png");
   background-size: cover;
   overflow: hidden;
   position: relative;
